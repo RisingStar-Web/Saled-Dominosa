@@ -1,0 +1,81 @@
+/* 
+  Localizable.strings
+  GuessingNumber
+
+  Created by Anjona on 14-8-24.
+  Copyright (c) 2014年 Anjona Inc. All rights reserved.
+*/
+
+"TITLE" = "数邻";
+"REST" = "机会";
+"WIN" = "获胜啦 !!!";
+"CONGRATULATION" = "恭喜您, 再来挑战一次吧!";
+"OK" = "确定";
+"GAMETYPE" = "难度";
+"GAME" = "游戏";
+"CUSTOM" = "自定义";
+"APPLY" = "应用";
+"GENERATE" = "生成谜题中...";
+
+"ENSURE_UNIQUE_SOLUTION" = "确保只有唯一答案";
+"MAXIMUM_NUMBER_DOMINOES" = "多米诺骨牌的最大值";
+
+"CANCEL" = "取消";
+"NEWGAME" = "新游戏";
+"SPECIFICGAME" = "自定义游戏";
+"SPECIFICRANDOMSEED" = "自定义随机数";
+"RESTART" = "重新开始游戏";
+"SOLVE" = "帮助解决游戏";
+"CLOSE" = "关闭";
+
+"GAME_RANDOM_SEED" = "游戏随机数";
+"GAME_ID" = "游戏编号";
+
+"ERROR_DESCRIPTION_SHORT" = "游戏关卡数据太短!";
+"ERROR_DESCRIPTION_LONG" = "游戏关卡数据太长!";
+"ERROR_DESCRIPTION_SYNTAX_INVALID" = "游戏关卡数据存在无效字符!";
+"ERROR_DESCRIPTION_OUT_RANGE" ="游戏关卡数据超出指定范围!";
+"ERROR_DESCRIPTION_BALANCE_INCORRECT" = "游戏关卡数据不平衡，无法解开!";
+"ERROR_DESCRIPTION_SYNTAX_MISSING" = "游戏关卡数据缺少']'符号!";
+
+
+"MINE" = "宝石";
+"DEAD" = "游戏失败啦!";
+"AUTOMINE" = "游戏提示";
+"AUTOSOLVED" = "游戏提示结束";
+"DONE" = "令人敬佩的, 游戏成功!";
+"NOSOLUTION" = "对不起, 以此为起点, 无法搜索可以到达的路线!";
+"FAILED" = "运气真差，游戏失败啦!";
+
+"WIDTH" = "宽度";
+"HEIGHT" = "高度";
+"EASY" = "简单";
+"TRICKY" = "中级";
+"HARD" = "困难";
+"NORMAL" = "一般";
+"EXTREME" = "极端";
+"UNREASONABLE" = "疯狂";
+
+"DIFFICULTY" = "难易度";
+"SYMMETRY" = "对称方式";
+"AGEOFBLACKSQUARES" = "% 黑块占比";
+"NONE" = "无";
+"2WAYMIRROR" = "两个方向镜面对称";
+"2WAYROTATIONAL" = "两个方向旋转";
+"4WAYMIRROR" = "四个方向镜面对称";
+"4WAYROTATIONAL" = "四个方向旋转";
+"CROSS" = "经典十字形";
+"OCTAGON" = "八角形";
+"RANDOM55" = "随机样式 5x5";
+"RANDOM77" = "随机样式 7x7";
+"RANDOM99" = "随机样式 9x9";
+"RANDOM" = "随机样式";
+"BOARDTYPE" = "游戏类型";
+"GRIDSIZE" = "棋盘大小";
+
+"NOTE_HELP" = "游戏说明";
+"NOTE_RESTART" = "新游戏";
+"NOTE_UNDO" = "回退一步";
+"NOTE_REDO" = "前进一步";
+"NOTE_DIFFICULTY" = "选择游戏难度";
+"NOTE_SETTING" = "其他游戏";

@@ -1,0 +1,82 @@
+/* 
+  Localizable.strings
+  GuessingNumber
+
+  Created by Anjona on 14-8-24.
+  Copyright (c) 2014年 Anjona Inc. All rights reserved.
+*/
+
+"TITLE" = "數鄰";
+"REST" = "機會";
+"WIN" = "獲勝啦 !!!";
+"CONGRATULATION" = "恭喜您, 再來挑戰一次吧!";
+"GAMETYPE" = "難度";
+"GAME" = "遊戲";
+"OK" = "確定";
+"CUSTOM" = "自定義";
+"APPLY" = "應用";
+"GENERATE" = "生成謎題中...";
+
+"ENSURE_UNIQUE_SOLUTION" = "確保只有唯一答案";
+"MAXIMUM_NUMBER_DOMINOES" = "多米諾骨牌的最大值";
+
+"CANCEL" = "取消";
+"NEWGAME" = "新遊戲";
+"SPECIFICGAME" = "自定義遊戲";
+"SPECIFICRANDOMSEED" = "自定義隨機數";
+"RESTART" = "重新開始遊戲";
+"SOLVE" = "幫助解決遊戲";
+"CLOSE" = "關閉";
+
+"GAME_RANDOM_SEED" = "遊戲隨機數";
+"GAME_ID" = "遊戲編號";
+
+"ERROR_DESCRIPTION_SHORT" = "遊戲關卡數據太短!";
+"ERROR_DESCRIPTION_LONG" = "遊戲關卡數據太長!";
+"ERROR_DESCRIPTION_SYNTAX_INVALID" = "遊戲關卡數據存在無效字符!";
+"ERROR_DESCRIPTION_OUT_RANGE" ="遊戲關卡數據超出指定範圍!";
+"ERROR_DESCRIPTION_BALANCE_INCORRECT" = "遊戲關卡數據不平衡，無法解開!";
+"ERROR_DESCRIPTION_SYNTAX_MISSING" = "遊戲關卡數據缺少']'符號!";
+
+"GAMEOVER" = "遊戲結束";
+
+"MINE" = "寶石";
+"DEAD" = "遊戲失敗啦!";
+"AUTO" = "遊戲提示";
+"AUTOSOLVED" = "遊戲提示結束";
+"DONE" = "令人敬佩的, 遊戲成功!";
+"NOSOLUTION" = "對不起, 以此為起點, 無法搜索可以到達的路線!";
+"FAILED" = "運氣真差，遊戲失敗啦!";
+
+"WIDTH" = "寬度";
+"HEIGHT" = "高度";
+"EASY" = "簡單";
+"TRICKY" = "中級";
+"HARD" = "困難";
+"NORMAL" = "一般";
+"EXTREME" = "極端";
+"UNREASONABLE" = "瘋狂";
+
+"DIFFICULTY" = "難易度";
+"SYMMETRY" = "對稱方式";
+"AGEOFBLACKSQUARES" = "% 黑塊佔比";
+"NONE" = "無";
+"2WAYMIRROR" = "兩個方向鏡面對稱";
+"2WAYROTATIONAL" = "兩個方向旋轉";
+"4WAYMIRROR" = "四個方向鏡面對稱";
+"4WAYROTATIONAL" = "四個方向旋轉";
+"CROSS" = "經典十字形";
+"OCTAGON" = "八角形";
+"RANDOM55" = "隨機樣式 5x5";
+"RANDOM77" = "隨機樣式 7x7";
+"RANDOM99" = "隨機樣式 9x9";
+"RANDOM" = "隨機樣式";
+"BOARDTYPE" = "遊戲類型";
+"GRIDSIZE" = "棋盤大小";
+
+"NOTE_HELP" = "遊戲說明";
+"NOTE_RESTART" = "新遊戲";
+"NOTE_UNDO" = "回退一步";
+"NOTE_REDO" = "前進一步";
+"NOTE_DIFFICULTY" = "選擇遊戲難度";
+"NOTE_SETTING" = "其他遊戲";

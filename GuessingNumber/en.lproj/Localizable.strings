@@ -1,0 +1,87 @@
+/* 
+  Localizable.strings
+  GuessingNumber
+
+  Created by Anjona on 14-8-24.
+  Copyright (c) 2014年 Anjona Inc. All rights reserved.
+*/
+
+"TITLE" = "Dominosa";
+
+"REST" = "STEPS";
+"WIN" = "You Win !";
+"CONGRATULATION" = "Congratulations!";
+"OK" = "OK";
+"GAMETYPE" = "Difficulty";
+"GAME" = "Game";
+"CUSTOM" = "Custom";
+"APPLY" = "Apply";
+"GENERATE" = "Generate Puzzles...";
+"GAME_RANDOM_SEED" = "Game Random Seed";
+"GAME_ID" = "Game ID";
+
+"ENSURE_UNIQUE_SOLUTION" = "Ensure unique solution";
+"MAXIMUM_NUMBER_DOMINOES" = "Maximum number on dominoes";
+
+"CANCEL" = "Cancel";
+"NEWGAME" = "New game";
+"SPECIFICGAME" = "Specific game";
+"SPECIFICRANDOMSEED" = "Specific Random Seed";
+"RESTART" = "Restart game";
+"SOLVE" = "Solve game";
+"CLOSE" = "Close";
+
+"ERROR_DESCRIPTION_SHORT" = "Game description is too short!";
+"ERROR_DESCRIPTION_LONG" = "Game description is too long!";
+"ERROR_DESCRIPTION_SYNTAX_INVALID" = "Invalid syntax in game description!";
+"ERROR_DESCRIPTION_OUT_RANGE" = "Number out of range in game description!";
+"ERROR_DESCRIPTION_BALANCE_INCORRECT" = "Incorrect number balance in game description!";
+"ERROR_DESCRIPTION_SYNTAX_MISSING" = "Missing ']' in game description!";
+
+"GAMEOVER" = "Game Over!";
+
+"DOMINOSA" = "Dominosa Puzzle";
+"INERTIA" = "Inertia Puzzle";
+"LIGHTUP" = "Light Up Puzzle";
+"PEGS" = "Pegs Puzzle";
+
+"MINE" = "Gems";
+"DEAD" = "Bomb!";
+"AUTOMINE" = "Auto Run";
+"AUTOSOLVED" = "Auto Solved";
+"DONE" = "Awesome, successed!";
+"NOSOLUTION" = "Unable to find a solution from this starting point";
+"FAILED" = "Bad luck! Game failed!";
+
+"WIDTH" = "Width";
+"HEIGHT" = "Height";
+"EASY" = "Easy";
+"TRICKY" = "Tricky";
+"HARD" = "Hard";
+"NORMAL" = "Normal";
+"EXTREME" = "Extreme";
+"UNREASONABLE" = "Unreasonable";
+
+"DIFFICULTY" = "Difficulty";
+"SYMMETRY" = "Symmetry";
+"AGEOFBLACKSQUARES" = "% age of black squares";
+"NONE" = "None";
+"2WAYMIRROR" = "2-way mirror";
+"2WAYROTATIONAL" = "2-way rotational";
+"4WAYMIRROR" = "4-way mirror";
+"4WAYROTATIONAL" = "4-way rotational";
+"CROSS" = "Cross";
+"OCTAGON" = "Octagon";
+"RANDOM55" = "Random 5x5";
+"RANDOM77" = "Random 7x7";
+"RANDOM99" = "Random 9x9";
+"RANDOM" = "Random";
+"BOARDTYPE" = "Board Type";
+"GRIDSIZE" = "Grid Size";
+
+"NOTE_HELP" = "Instruction";
+"NOTE_RESTART" = "New Game";
+"NOTE_UNDO" = "Undo Game";
+"NOTE_REDO" = "Redo Game";
+"NOTE_DIFFICULTY" = "Choose Difficulty";
+"NOTE_SETTING" = "Other Game";

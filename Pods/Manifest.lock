@@ -1,0 +1,26 @@
+PODS:
+  - CMPopTipView (2.3.0)
+  - RMStore (0.7.1):
+    - RMStore/Core (= 0.7.1)
+  - RMStore/Core (0.7.1)
+  - SVProgressHUD (2.1.2)
+  - SwipeBack (1.1.1)
+  - UAAppReviewManager (0.2.6)
+
+DEPENDENCIES:
+  - CMPopTipView
+  - RMStore
+  - SVProgressHUD
+  - SwipeBack
+  - UAAppReviewManager
+
+SPEC CHECKSUMS:
+  CMPopTipView: 774e0230b5c73abb3c39051da6d8a383373c4f7f
+  RMStore: 64ba13a9c040e3b7572765d169f77175cd3243e5
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+  SwipeBack: d6759601b40da1f4161033feb30ab475d7d04322
+  UAAppReviewManager: 334bdb0085c3f80c7b696f33edc53667eda548e6
+
+PODFILE CHECKSUM: e465b805bb064922fceea25f74e037fee8d84859
+
+COCOAPODS: 1.2.1
